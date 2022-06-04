@@ -1,0 +1,32 @@
+body{
+  background-color: #3a3b3c;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+.section{
+  max-width: 300px;
+  margin: 0 auto;
+}
+.original-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  font-weight: bold;
+  background-color: #695CFE;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+
+.original-button:hover {
+  opacity: .5;
+}
